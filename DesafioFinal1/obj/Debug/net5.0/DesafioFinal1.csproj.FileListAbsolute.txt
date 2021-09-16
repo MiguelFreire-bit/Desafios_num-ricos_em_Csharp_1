@@ -1,0 +1,16 @@
+C:\Users\Migue\source\repos\DesafioFinal1\DesafioFinal1\obj\Debug\net5.0\DesafioFinal1.csproj.AssemblyReference.cache
+C:\Users\Migue\source\repos\DesafioFinal1\DesafioFinal1\obj\Debug\net5.0\DesafioFinal1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\DesafioFinal1\DesafioFinal1\obj\Debug\net5.0\DesafioFinal1.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\DesafioFinal1\DesafioFinal1\obj\Debug\net5.0\DesafioFinal1.AssemblyInfo.cs
+C:\Users\Migue\source\repos\DesafioFinal1\DesafioFinal1\obj\Debug\net5.0\DesafioFinal1.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\DesafioFinal1\DesafioFinal1\bin\Debug\net5.0\DesafioFinal1.exe
+C:\Users\Migue\source\repos\DesafioFinal1\DesafioFinal1\bin\Debug\net5.0\DesafioFinal1.deps.json
+C:\Users\Migue\source\repos\DesafioFinal1\DesafioFinal1\bin\Debug\net5.0\DesafioFinal1.runtimeconfig.json
+C:\Users\Migue\source\repos\DesafioFinal1\DesafioFinal1\bin\Debug\net5.0\DesafioFinal1.runtimeconfig.dev.json
+C:\Users\Migue\source\repos\DesafioFinal1\DesafioFinal1\bin\Debug\net5.0\DesafioFinal1.dll
+C:\Users\Migue\source\repos\DesafioFinal1\DesafioFinal1\bin\Debug\net5.0\ref\DesafioFinal1.dll
+C:\Users\Migue\source\repos\DesafioFinal1\DesafioFinal1\bin\Debug\net5.0\DesafioFinal1.pdb
+C:\Users\Migue\source\repos\DesafioFinal1\DesafioFinal1\obj\Debug\net5.0\DesafioFinal1.dll
+C:\Users\Migue\source\repos\DesafioFinal1\DesafioFinal1\obj\Debug\net5.0\ref\DesafioFinal1.dll
+C:\Users\Migue\source\repos\DesafioFinal1\DesafioFinal1\obj\Debug\net5.0\DesafioFinal1.pdb
+C:\Users\Migue\source\repos\DesafioFinal1\DesafioFinal1\obj\Debug\net5.0\DesafioFinal1.genruntimeconfig.cache
